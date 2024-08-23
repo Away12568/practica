@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn{
+    padding: 10px;
+text-transform: uppercase;
+font-weight: 700;
+margin: 50px auto;
+display: block;
+text-align: center;
+border-radius: 10px;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.img{
+    margin: 0 auto;
+    display: block;
+}
+
+.img1   {
+display: none;
+}
+
+#btn3{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+
+}
+.btn3{
+    padding: 20px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 15px;
+    font-size: 20px;
+    transition: 0.5s;
+}
+.center { 
+margin: 0 auto;
+display: block;
+}
+
+.niga{
+    margin: 0 auto;
+    display: block;
+}
+
+.noniga{
+    display: block;
+    margin: 0 auto;
+}
+.none{
+    display: none;
+}
+.block{
+    display: block;
+}
